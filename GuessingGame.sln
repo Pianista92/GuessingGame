@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GuessingGame", "GuessingGame\GuessingGame.pyproj", "{E44E6A1B-461C-42F0-8EEB-6896CCA4360C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44E6A1B-461C-42F0-8EEB-6896CCA4360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44E6A1B-461C-42F0-8EEB-6896CCA4360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AE487AC-EEA1-40F5-AC0B-82C7698FBF28}
+	EndGlobalSection
+EndGlobal
